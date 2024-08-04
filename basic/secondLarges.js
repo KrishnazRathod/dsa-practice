@@ -73,6 +73,7 @@ function secondSma(array) {
 
 var array = [4, 54, 7, 22, 44, 78, 78, 2, 54];
 var secondL = secondL(array);
+console.log("secondL: ", secondL);
 var secondS = secondS(array);
 var secondLa = secondLa(array);
 var secondSm = secondSm(array);
