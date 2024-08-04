@@ -42,3 +42,4 @@ function divide1(array1, si, ei) {
 var array1 = [3, 4, 2, 1, 12, 3, 4];
 divide1(array1, 0, array1.length - 1);
 console.log("array1:", array1);
+  
