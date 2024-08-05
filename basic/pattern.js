@@ -126,7 +126,7 @@ function pattern10(n) {
     let star = i;
     if (i > n) {
       star = 2 * n - i;
-    }
+    } 
     for (let j = 1; j <= star; j++) {
       pattren += "* ";
     }
