@@ -15,7 +15,7 @@ function isSort(array) {
   }
   return true;
 }
-const arr = [1, 2, 5, 4, 5];
+const arr = [1, 2, 5, 6, 4, 5];
 const ans = isSorted(arr);
 if (ans) console.log("True");
 else console.log("False");
